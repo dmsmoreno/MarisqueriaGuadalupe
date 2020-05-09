@@ -7,7 +7,7 @@ CREATE DATABASE punto_de_venta;
     descuento.
 */
 
-USE punto_de_venta_consultorio_opticos;
+USE punto_de_venta;
 
 CREATE TABLE clientes
 (
